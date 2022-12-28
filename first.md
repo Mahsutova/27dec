@@ -9,3 +9,4 @@
 
 тестим git  pull
 
+тестим git push
